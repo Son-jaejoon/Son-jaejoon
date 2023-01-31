@@ -1,4 +1,4 @@
-# SON JAE JOON 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jaejoon's%20Github&fontSize=90)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSon-jaejoon&count_bg=%23B6E7FF&title_bg=%238EBFFF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -18,6 +18,9 @@
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?&style=for-the-badge&logo=GitLab&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC.svg?&style=for-the-badge&logo=Trello&logoColor=black)
+
+# 👨‍💻 Project
+
 
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaejoon.programer@gmail.com)](mailto:jaejoon.programmer@gmail.com)
