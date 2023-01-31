@@ -26,7 +26,7 @@
 
  
 # 👨‍💻 Project
-- **대머리문어** [시연영상](https://www.youtube.com/watch?v=03D3dfVjZU0) / [깃랩](https://github.com/SmuReset/bald)
+- **대머리문어** [시연영상](https://www.youtube.com/watch?v=03D3dfVjZU0) / [깃허브](https://github.com/SmuReset/bald)
 > Unity를 통한 2D 러닝액션게임 
 > 
 > 개발 환경 : Unity 2019.3.9f1, Photoshop, GITHUB, C#
@@ -49,7 +49,7 @@
 > 
 > 개발 기간 : 2021.09 ~ 2021.12
 
-- **MELKO(멜코)** [시연영상](https://www.youtube.com/watch?v=v6k_pVwvEOY) / [깃허브](https://gitlab.com/yeonk33/melko)
+- **MELKO(멜코)** [시연영상](https://www.youtube.com/watch?v=v6k_pVwvEOY) / [깃랩](https://gitlab.com/yeonk33/melko)
 > Unity를 통한 2D 플랫포머 게임 개발 
 > 
 > 개발 환경 : Unity 2020.3.27f1, Gitlab, C# 
