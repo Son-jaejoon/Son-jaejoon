@@ -29,7 +29,7 @@
 - **대머리문어** [시연영상](https://www.youtube.com/watch?v=03D3dfVjZU0) / [깃허브](https://github.com/SmuReset/bald)
 > Unity를 통한 2D 러닝액션게임 
 > 
-> 개발 환경 : Unity 2019.3.9f1, Photoshop, GITHUB, C#
+> 개발 환경 : Unity 2019.3.9f1, Photoshop, Github, C#
 > 
 > 개발 성과 : 2020 SM경진대회 게임 기획 및 개발 부문 우수 
 > 
@@ -38,14 +38,14 @@
 - **파라고니언** [시연영상](https://www.youtube.com/watch?v=03D3dfVjZU0)
 > Unreal Engine을 통한 3D 핵 앤 슬래시 슈팅 액션게임 개발
 > 
-> 개발 환경 : Unreal Engine 4.26.2 , Photoshop, GITLAB, BluePrint
+> 개발 환경 : Unreal Engine 4.26.2 , Photoshop, Gitlab, BluePrint
 > 
 > 개발 기간 : 2021.03 ~ 2021.07
 
 - **파라고니언 2 : FH VIRUS** [시연영상](https://www.youtube.com/watch?v=qhyS_EFDKIk) / [깃랩](https://gitlab.com/panicop/SW-PBL)
 > Unreal Engine을 통한 3D 좀비 섬멸 액션 게임 개발
 > 
-> 개발 환경 : Unreal Engine 4.26, Photoshop, GITLAB, BluePrint
+> 개발 환경 : Unreal Engine 4.26, Photoshop, Gitlab, BluePrint
 > 
 > 개발 기간 : 2021.09 ~ 2021.12
 
