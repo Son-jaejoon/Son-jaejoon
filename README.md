@@ -35,7 +35,7 @@
 > 
 > 개발 기간 : 2020.09 ~ 2020.12
 
-- **파라고니언** [시연영상](https://www.youtube.com/watch?v=03D3dfVjZU0)
+- **파라고니언** [시연영상](https://www.youtube.com/watch?v=zTMdY90OZfE)
 > Unreal Engine을 통한 3D 핵 앤 슬래시 슈팅 액션게임 개발
 > 
 > 개발 환경 : Unreal Engine 4.26.2 , Photoshop, Gitlab, BluePrint
